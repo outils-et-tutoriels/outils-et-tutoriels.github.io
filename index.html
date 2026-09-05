@@ -1,0 +1,8 @@
+---
+layout: default
+title: "Outils et tutoriels"
+description: "Meilleurs outils et logiciels, recommandations et revues."
+---
+<section class="opening"><p class="eyebrow">Selectionnee avec soin</p><h1>Les bons outils<br>font de la place<br>aux bonnes idees.</h1><p>Des guides francs, des logiciels testes et des raccourcis qui valent vraiment le detour.</p></section>
+<section class="shelf" aria-label="Derniers articles"><div class="shelf-title"><span>Dernieres trouvailles</span><span>01 - 30</span></div>{% assign posts = paginator.posts | default: site.posts %}{% for post in posts %}<article class="specimen">{% if post.image %}<a href="{{ post.url | relative_url }}"><img src="{{ post.image | relative_url }}" alt=""></a>{% endif %}<p>{{ post.date | date: "%d %b %Y" }}</p><h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2><p class="excerpt">{{ post.description }}</p></article>{% else %}<p class="empty">Les premieres fiches arrivent bientot.</p>{% endfor %}</section>
+{% if paginator and paginator.total_pages > 1 %}<nav class="pagination" aria-label="Pages">{% if paginator.previous_page %}<a href="{{ paginator.previous_page_path | relative_url }}">Precedent</a>{% endif %}<span>Page {{ paginator.page }} / {{ paginator.total_pages }}</span>{% if paginator.next_page %}<a href="{{ paginator.next_page_path | relative_url }}">Suivant</a>{% endif %}</nav>{% endif %}

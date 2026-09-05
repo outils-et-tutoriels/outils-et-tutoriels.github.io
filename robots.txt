@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://outils-et-tutoriels.github.io/sitemap.xml

@@ -1,0 +1,19 @@
+title: "Outils et tutoriels"
+description: "Meilleurs outils et logiciels, recommandations et revues pour mieux travailler en ligne."
+url: "https://outils-et-tutoriels.github.io"
+baseurl: ""
+lang: fr
+timezone: UTC
+permalink: /:year/:month/:day/:title/
+markdown: kramdown
+paginate: 30
+paginate_path: "/page/:num/"
+repository_url: "https://github.com/outils-et-tutoriels/outils-et-tutoriels.github.io"
+branch: main
+author: "Outils et tutoriels"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+defaults:
+  - scope: { path: "", type: "posts" }
+    values: { layout: "post" }
