@@ -11,6 +11,7 @@ paginate_path: "/page/:num/"
 repository_url: "https://github.com/outils-et-tutoriels/outils-et-tutoriels.github.io"
 branch: main
 author: "Outils et tutoriels"
+default_social_image: "/assets/img/social-card.png"
 plugins:
   - jekyll-feed
   - jekyll-paginate

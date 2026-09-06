@@ -1,0 +1,4 @@
+.wordmark { display: flex; align-items: center; gap: 14px; }
+.wordmark img { width: 58px; height: 58px; object-fit: contain; flex: 0 0 auto; }
+.wordmark span { display: block; }
+@media (max-width: 720px) { .wordmark { gap: 10px; } .wordmark img { width: 46px; height: 46px; } }

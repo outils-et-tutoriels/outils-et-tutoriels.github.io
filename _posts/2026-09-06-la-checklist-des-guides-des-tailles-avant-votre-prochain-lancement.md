@@ -37,7 +37,7 @@ Le piège classique consiste à coller une table HTML dans chaque description. A
 
 ![Organiser les guides des tailles par familles de produits](/assets/img/posts/2026-09-06-la-checklist-des-guides-des-tailles-avant-votre-prochain-lancement/image-02-9a6d9e9e374d.webp)
 
-Cette organisation n’impose pas un guide unique à tout le catalogue. Elle rend les exceptions explicites. Vous pouvez conserver un tableau pour les t-shirts coupe standard, un autre pour les vêtements enfant et un troisième pour une capsule aux proportions particulières. Pour aller plus loin sur cette logique, l’article sur [l’association des guides par familles de produits](https://the-lean-ecommerce.com/blog/how-i-match-shopify-size-charts-to-product-families-without-a-maintenance-mess-PEm7+daKgReCDeB6Vf1UQA) complète bien la méthode.
+Cette organisation n’impose pas un guide unique à tout le catalogue. Elle rend les exceptions explicites. Vous pouvez conserver un tableau pour les t-shirts coupe standard, un autre pour les vêtements enfant et un troisième pour une capsule aux proportions particulières. Le principe reste le même: rendre les exceptions visibles avant qu’elles ne deviennent un probleme de maintenance.
 
 ## 4. Tester les règles d’affectation avec de vrais cas
 
