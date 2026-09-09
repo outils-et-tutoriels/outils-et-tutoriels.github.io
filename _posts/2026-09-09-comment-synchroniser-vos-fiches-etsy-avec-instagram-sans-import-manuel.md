@@ -2,7 +2,7 @@
 layout: post
 title: "Comment Synchroniser Vos Fiches Etsy Avec Instagram Sans Import Manuel"
 description: "Un guide pratique pour connecter un catalogue Etsy à Instagram et Facebook, vérifier le flux et éviter les fiches produits incomplètes."
-date: 2026-09-09 08:32:40 +0000
+date: 2026-09-09 08:33:08 +0000
 categories: [outils, tutoriels]
 tags: [etsy, instagram, catalogue-produit, facebook, e-commerce]
 canonical_url: ""
