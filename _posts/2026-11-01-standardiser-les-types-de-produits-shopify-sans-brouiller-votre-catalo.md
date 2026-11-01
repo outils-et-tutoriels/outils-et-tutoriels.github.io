@@ -2,7 +2,7 @@
 layout: post
 title: "Standardiser les Types de Produits Shopify Sans Brouiller Votre Catalogue"
 description: "Une méthode en quatre étapes pour harmoniser les types de produits Shopify, vérifier les exceptions et planifier une mise à jour en lot."
-date: 2026-11-01 11:33:40 +0000
+date: 2026-11-01 11:39:49 +0000
 categories: [outils, tutoriels]
 tags: [shopify, catalogue-produit, mise-a-jour-en-lot, types-de-produits]
 canonical_url: ""
@@ -13,7 +13,7 @@ image: "/assets/img/posts/2026-11-01-standardiser-les-types-de-produits-shopify-
 
 Quand un même article est tour à tour classé « robe », « robes » et « vêtements femme », le problème n’est pas seulement esthétique : les filtres, les collections et les exports deviennent plus difficiles à relire. La bonne méthode consiste à fixer une petite grammaire de types, à isoler les exceptions, puis à appliquer la règle à un échantillon contrôlé avant de programmer la mise à jour complète. **Ultimator Bulk Editor** peut exécuter ce travail sur les produits, mais la décision de classement doit être prise avant le clic.
 
-Shopify distingue la *catégorie de produits* standardisée du *type de produit*, qui est une catégorie personnalisée. Un produit ne reçoit qu’une catégorie et un type ; la catégorie peut notamment servir aux calculs fiscaux et à certains canaux de vente. [La documentation Shopify](https://help.shopify.com/fr/manual/products/details/product-type) explique cette différence et rappelle que le type reste utile lorsqu’aucune catégorie standard ne décrit votre organisation interne.
+Shopify distingue une *catégorie de produits* issue de sa taxonomie standardisée d’un *type de produit* personnalisé. Sa [documentation développeur sur les produits](https://shopify.dev/docs/api/admin-rest/latest/resources/product) décrit le type comme un champ de catégorisation utilisable pour filtrer et rechercher des produits ; les variantes restent quant à elles des versions d’un même produit. Cette distinction aide à choisir ce que votre règle doit réellement normaliser.
 
 ![Cartes produit regroupées avant une mise à jour en lot](/assets/img/posts/2026-11-01-standardiser-les-types-de-produits-shopify-sans-brouiller-votre-catalo/image-01-a84de33a951f.webp)
 
