@@ -2,7 +2,7 @@
 layout: post
 title: "Tester une modification Shopify en lot avec un échantillon témoin"
 description: "Une méthode en cinq contrôles pour tester une modification Shopify en lot sur quelques fiches avant de toucher tout le catalogue."
-date: 2026-11-17 03:33:41 +0000
+date: 2026-11-17 03:34:36 +0000
 categories: [outils, tutoriels]
 tags: [shopify, catalogue, modification-en-lot, controle-qualite, ultimator-bulk-editor]
 canonical_url: ""
@@ -41,7 +41,7 @@ Une tâche en lot contient toujours deux décisions différentes : **quelles fic
 | Opération | Remplace-t-on ou ajoute-t-on ? | Ajouter, sans supprimer les tags existants |
 | Preuve | Où vérifier après ? | Page produit, filtre admin, collection liée |
 
-Cette distinction devient particulièrement importante avec les variantes. Un prix, un SKU ou une option peut vivre au niveau de la variante, alors qu’un type ou une description relève du produit. Si le doute porte sur ce découpage, lisez d’abord [Séparer produits et variantes avant une modification Shopify en masse](https://outils-et-tutoriels.github.io/2026/11/14/separer-produits-et-variantes-avant-une-modification-shopify-en-masse/).
+Cette distinction devient particulièrement importante avec les variantes. Un prix, un SKU ou une option peut vivre au niveau de la variante, alors qu’un type ou une description relève du produit. Si le doute porte sur ce découpage, lisez d’abord [Séparer produits et variantes avant une modification Shopify en masse](https://outils-et-tutoriels.gitlab.io/guides/2026/11/14/separer-produits-et-variantes-avant-une-modification-shopify-en-masse/).
 
 ![Un filtre et un tampon illustrent la séparation entre sélection et modification](/assets/img/posts/2026-11-17-tester-une-modification-shopify-en-lot-avec-un-echantillon-temoin/image-02-ca7c37c74f0e.webp)
 
