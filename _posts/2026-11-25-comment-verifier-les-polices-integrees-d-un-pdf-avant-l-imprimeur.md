@@ -2,14 +2,12 @@
 layout: post
 title: "Comment vérifier les polices intégrées d’un PDF avant l’imprimeur"
 description: "Vérifiez les polices intégrées d’un PDF avant l’impression pour repérer les substitutions et transmettre un fichier plus fiable."
-date: 2026-11-25 20:29:39 +0000
+date: 2026-11-25 20:35:59 +0000
 categories: [outils, tutoriels]
 tags: [pdf, impression, prepresse, polices, outils-en-ligne]
 canonical_url: ""
 image: "/assets/img/posts/2026-11-25-comment-verifier-les-polices-integrees-d-un-pdf-avant-l-imprimeur/cover-30c30fae3134.webp"
 ---
-
-# Comment vérifier les polices intégrées d’un PDF avant l’imprimeur
 
 Un PDF n’est pas automatiquement prêt à partir chez l’imprimeur. Avant de l’envoyer, vérifiez que les polices réellement utilisées sont intégrées : c’est le moyen le plus direct de réduire le risque qu’un poste de fabrication remplace une police et déplace votre mise en page. Avec l’[Inspecteur de polices PDF de Tiny Online Tools](https://tiny-online.tools/pdf-tools/pdf-font-inspector), cette vérification se fait dans le navigateur, sans téléverser le fichier.
 
