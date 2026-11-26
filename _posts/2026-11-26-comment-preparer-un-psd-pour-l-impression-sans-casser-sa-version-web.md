@@ -2,7 +2,7 @@
 layout: post
 title: "Comment préparer un PSD pour l’impression sans casser sa version web"
 description: "Préparez un PSD pour l’impression et le web avec un contrôle simple des calques, couleurs, formats et exports avant l’envoi."
-date: 2026-11-26 02:28:12 +0000
+date: 2026-11-26 02:33:31 +0000
 categories: [outils, tutoriels]
 tags: [psd, impression, photo-produit, imageflow, export]
 canonical_url: ""
@@ -63,7 +63,7 @@ Si une réponse est non, revenez aux calques et corrigez la version concernée. 
 
 ## Le paquet de livraison minimal
 
-Un envoi propre contient rarement un seul fichier mystérieux. Préparez : le master PSD/PSB, la sortie finale nommée selon son usage, une note avec le format attendu et, si nécessaire, l’épreuve ou le lien de validation. Cette habitude rejoint le [paquet de livraison qui évite les malentendus](https://outils-et-tutoriels.github.io/2026/11/18/photo-produit-retouchee-le-paquet-de-livraison-qui-evite-les-malentendus/) : elle réduit les demandes de dernière minute et évite qu’un export soit pris pour l’original.
+Un envoi propre contient rarement un seul fichier mystérieux. Préparez : le master PSD/PSB, la sortie finale nommée selon son usage, une note avec le format attendu et, si nécessaire, l’épreuve ou le lien de validation. Cette habitude réduit les demandes de dernière minute et évite qu’un export soit pris pour l’original.
 
 ![Dossier de livraison contrôlé avant envoi](/assets/img/posts/2026-11-26-comment-preparer-un-psd-pour-l-impression-sans-casser-sa-version-web/image-03-d51354864b23.webp)
 
